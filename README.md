@@ -4,9 +4,13 @@ To compare two numbers using java programming language.
 
 ## PROCEDURE:
 1.Import required packages.
+
 2.Declare main method with the signature "public static void main(String[] args)".
+
 3.Get two numbers as input.
+
 4.Compare two numbers using else-if ladder.
+
 5.Dispaly the output accordingly.
 
 ## PROGRAM:
